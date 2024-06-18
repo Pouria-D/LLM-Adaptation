@@ -79,6 +79,10 @@ We have used `private-transformers` library to enable dp training with `clipping
 Point: As we wanted to develop the main architechture of implementation of Paper, there was some conflicts and missunderstaindings between transforemers libraries and modification which has been made by microsoft on dp-transformers to `Trainer` class and we couldn't find approprate version of libraries to satisfy the required `kwargs`.
 The main privacy engine in this work is from:  `private_transformers.privacy_engine.PrivacyEngine`.
 
+# Results
+
+All training result and approprate flags to run methods are in `DP_Experiment.ipynb` and the output table with brief analysis is available in `Copy of Template to copy_ results for LLM adapations.xlsx`.
+
 # Acknowledgement
 The code in private_transformers directory comes from: https://github.com/lxuechen/private-transformers and is in this submission only to enable the run of our code.
 
