@@ -1,0 +1,337 @@
+0.001,0.1 ,50 ,50 ,mnli,prompt,8,256,8 ,roberta-large,256,private
+0.001,1.0 ,50 ,50 ,mnli,prompt,8,256,8 ,roberta-large,256,private
+0.001,10.0,50 ,50 ,mnli,prompt,8,256,8 ,roberta-large,256,private
+0.001,3.0 ,50 ,50 ,mnli,prompt,8,256,8 ,roberta-large,256,private
+0.005,0.05,100,10 ,mnli,prompt,8,256,4 ,roberta-large,256,private
+0.005,0.05,100,10 ,qqp ,prompt,8,256,4 ,roberta-large,256,private
+0.005,0.05,100,10 ,sst2,prompt,8,256,4 ,roberta-large,256,private
+0.005,0.05,100,10 ,qnli,prompt,8,256,4 ,roberta-large,256,private
+0.005,0.05,100,10 ,mnli,prompt,3,256,4 ,roberta-large,256,private
+0.005,0.05,100,10 ,qqp ,prompt,3,256,4 ,roberta-large,256,private
+0.005,0.05,100,10 ,sst2,prompt,3,256,4 ,roberta-large,256,private
+0.005,0.05,100,10 ,qnli,prompt,3,256,4 ,roberta-large,256,private
+0.001,0.1 ,50 ,10 ,mnli,prompt,8,256,8 ,roberta-large,256,private
+0.001,1.0 ,50 ,10 ,mnli,prompt,8,256,8 ,roberta-large,256,private
+0.001,10.0,50 ,10 ,mnli,prompt,8,256,8 ,roberta-large,256,private
+0.001,3.0 ,50 ,10 ,mnli,prompt,8,256,8 ,roberta-large,256,private
+0.001,0.1 ,50 ,100,mnli,prompt,8,256,8 ,roberta-large,256,private
+0.001,1.0 ,50 ,100,mnli,prompt,8,256,8 ,roberta-large,256,private
+0.001,10.0,50 ,100,mnli,prompt,8,256,8 ,roberta-large,256,private
+0.001,3.0 ,50 ,100,mnli,prompt,8,256,8 ,roberta-large,256,private
+0.001,0.1 ,50 ,20 ,mnli,prompt,8,256,8 ,roberta-large,256,private
+0.001,1.0 ,50 ,20 ,mnli,prompt,8,256,8 ,roberta-large,256,private
+0.01 ,0.1 ,100,10 ,mnli,prefix,8,256,8 ,roberta-large,256,private
+0.01 ,0.1 ,100,10 ,mnli,prefix,8,128,16,roberta-large,256,private
+0.05 ,0.1 ,10 ,7  ,qqp ,prefix,8,128,16,roberta-large,256,private
+0.005,0.05,100,10 ,qqp ,prompt,8,128,16,roberta-large,256,private
+0.01 ,0.1 ,100,20 ,mnli,prefix,8,128,16,roberta-large,256,private
+0.001,3.0 ,50 ,20 ,mnli,prompt,8,256,8 ,roberta-large,256,private
+0.001,0.1 ,50 ,50 ,mnli,prompt,8,128,16,roberta-large,256,private
+0.001,1.0 ,50 ,50 ,mnli,prompt,8,128,16,roberta-large,256,private
+0.05 ,4.0 ,22 ,1  ,sst2,prompt,8,128,16,roberta-large,256,private
+0.05 ,4.0 ,22 ,10 ,sst2,prompt,8,128,16,roberta-large,256,private
+0.05 ,4.0 ,100,10 ,sst2,prompt,8,128,16,roberta-large,256,private
+0.005,4.0 ,100,10 ,sst2,prompt,8,128,16,roberta-large,256,private
+0.005,4.0 ,100,10 ,sst2,prompt,3,128,16,roberta-large,256,private
+0.05 ,4.0 ,100,10 ,sst2,prompt,3,128,16,roberta-large,256,private
+0.01 ,0.1 ,100,10 ,mnli,prefix,3,128,16,roberta-large,256,private
+0.05 ,0.1 ,10 ,7  ,qqp ,prefix,3,128,16,roberta-large,256,private
+0.005,0.05,100,10 ,qqp ,prompt,3,128,16,roberta-large,256,private
+0.05 ,0.1 ,10 ,7  ,mnli,prefix,3,128,16,roberta-large,256,private
+0.005,0.05,100,10 ,mnli,prompt,3,128,16,roberta-large,256,private
+0.005,0.2 ,60 ,10 ,mnli,prompt,8,128,16,roberta-large,256,private
+0.005,0.2 ,60 ,10 ,mnli,prompt,3,128,16,roberta-large,256,private
+0.05 ,4.0 ,100,1  ,sst2,prefix,8,128,8 ,roberta-large,256,public
+0.01 ,4.0 ,100,1  ,sst2,prefix,8,128,1 ,roberta-large,256,public
+0.05 ,4.0 ,100,10 ,sst2,prompt,8,128,16,roberta-large,256,public
+0.005,4.0 ,100,10 ,sst2,prompt,8,128,16,roberta-large,256,public
+0.01 ,0.1 ,100,10 ,mnli,prefix,3,128,16,roberta-large,256,public
+0.05 ,0.1 ,100,7  ,qqp ,prefix,3,128,16,roberta-large,256,public
+0.05 ,0.1 ,100,7  ,mnli,prefix,3,128,16,roberta-large,256,public
+0.005,4.0 ,100,50 ,qqp ,prompt,8,128,8 ,roberta-large,256,public
+0.005,4.0 ,100,20 ,qqp ,prefix,8,128,8 ,roberta-large,256,public
+0.005,4.0 ,100,50 ,qnli,prompt,8,128,8	,roberta-large,256,public
+0.005,4.0 ,100,20 ,qnli,prefix,8,128,8 ,roberta-large,256,public
+0.005,4.0 ,100,100,sst2,prompt,8,128,8 ,roberta-large,256,public
+0.01 ,4.0 ,100,20 ,sst2,prefix,8,128,1 ,roberta-large,256,public
+0.05 ,4.0 ,22 ,5  ,sst2,prompt,8,128,16,roberta-large,256,private
+0.05 ,4.0 ,22 ,50 ,sst2,prompt,8,128,16,roberta-large,256,private
+0.05 ,4.0 ,22 ,20 ,sst2,prompt,8,128,16,roberta-large,256,private
+0.001,10.0,50 ,50 ,mnli,prompt,8,128,16,roberta-large,256,private
+0.001,3.0 ,50 ,50 ,mnli,prompt,8,128,16,roberta-large,256,private
+0.001,0.1 ,50 ,10 ,mnli,prompt,8,128,16,roberta-large,256,private
+0.001,1.0 ,50 ,10 ,mnli,prompt,8,128,16,roberta-large,256,private
+0.001,10.0,50 ,10 ,mnli,prompt,8,128,16,roberta-large,256,private
+0.001,3.0 ,50 ,10 ,mnli,prompt,8,128,16,roberta-large,256,private
+0.001,0.1 ,50 ,100,mnli,prompt,8,128,16,roberta-large,256,private
+0.001,1.0 ,50 ,100,mnli,prompt,8,128,16,roberta-large,256,private
+0.001,10.0,50 ,100,mnli,prompt,8,128,16,roberta-large,256,private
+0.001,3.0 ,50 ,100,mnli,prompt,8,128,16,roberta-large,256,private
+0.001,0.1 ,50 ,20 ,mnli,prompt,8,128,16,roberta-large,256,private
+0.001,1.0 ,50 ,20 ,mnli,prompt,8,128,16,roberta-large,256,private
+0.001,10.0,50 ,20 ,mnli,prompt,8,128,16,roberta-large,256,private
+0.001,3.0 ,50 ,20 ,mnli,prompt,8,128,16,roberta-large,256,private
+0.001,0.1 ,50 ,50 ,mnli,prompt,8,64 ,32,roberta-large,256,private
+0.001,1.0 ,50 ,50 ,mnli,prompt,8,64 ,32,roberta-large,256,private
+0.001,10.0,50 ,50 ,mnli,prompt,8,64 ,32,roberta-large,256,private
+0.001,3.0 ,50 ,50 ,mnli,prompt,8,64 ,32,roberta-large,256,private
+0.001,0.1 ,50 ,10 ,mnli,prompt,8,64 ,32,roberta-large,256,private
+0.001,1.0 ,50 ,10 ,mnli,prompt,8,64 ,32,roberta-large,256,private
+0.001,10.0,50 ,10 ,mnli,prompt,8,64 ,32,roberta-large,256,private
+0.001,3.0 ,50 ,10 ,mnli,prompt,8,64 ,32,roberta-large,256,private
+0.001,0.1 ,50 ,100,mnli,prompt,8,64 ,32,roberta-large,256,private
+0.001,1.0 ,50 ,100,mnli,prompt,8,64 ,32,roberta-large,256,private
+0.001,10.0,50 ,100,mnli,prompt,8,64 ,32,roberta-large,256,private
+0.001,3.0 ,50 ,100,mnli,prompt,8,64 ,32,roberta-large,256,private
+0.001,0.1 ,50 ,20 ,mnli,prompt,8,64 ,32,roberta-large,256,private
+0.001,1.0 ,50 ,20 ,mnli,prompt,8,64 ,32,roberta-large,256,private
+0.001,10.0,50 ,20 ,mnli,prompt,8,64 ,32,roberta-large,256,private
+0.001,3.0 ,50 ,20 ,mnli,prompt,8,64 ,32,roberta-large,256,private
+0.05 ,0.02,15 ,2  ,mnli,prefix,8,256,4 ,roberta-large,256,private
+0.05 ,0.05,15 ,2  ,mnli,prefix,8,256,4 ,roberta-large,256,private
+0.05 ,0.1 ,15 ,2  ,mnli,prefix,8,256,4 ,roberta-large,256,private
+0.05 ,1.0 ,15 ,2  ,mnli,prefix,8,256,4 ,roberta-large,256,private
+0.05 ,3.0 ,15 ,2  ,mnli,prefix,8,256,4 ,roberta-large,256,private
+0.05 ,5.0 ,15 ,2  ,mnli,prefix,8,256,4 ,roberta-large,256,private
+0.05 ,0.03,15 ,2  ,mnli,prefix,8,256,4 ,roberta-large,256,private
+0.05 ,0.04,15 ,2  ,mnli,prefix,8,256,4 ,roberta-large,256,private
+0.05 ,0.06,15 ,2  ,mnli,prefix,8,256,4 ,roberta-large,256,private
+0.05 ,0.07,15 ,2  ,mnli,prefix,8,256,4 ,roberta-large,256,private
+0.05 ,0.08,15 ,2  ,mnli,prefix,8,256,4 ,roberta-large,256,private
+0.05 ,0.09,15 ,2  ,mnli,prefix,8,256,4 ,roberta-large,256,private
+0.05 ,2.0 ,15 ,2  ,mnli,prefix,8,256,4 ,roberta-large,256,private
+0.05 ,0.5 ,15 ,2  ,mnli,prefix,8,256,4 ,roberta-large,256,private
+0.05 ,0.02,15 ,2  ,mnli,prefix,8,128,8 ,roberta-large,256,private
+0.05 ,0.05,15 ,2  ,mnli,prefix,8,128,8 ,roberta-large,256,private
+0.001,0.1 ,50 ,50 ,mnli,prefix,8,256,8 ,roberta-large,256,private
+0.001,1.0 ,50 ,50 ,mnli,prefix,8,256,8 ,roberta-large,256,private
+0.001,10.0,50 ,50 ,mnli,prefix,8,256,8 ,roberta-large,256,private
+0.001,3.0 ,50 ,50 ,mnli,prefix,8,256,8 ,roberta-large,256,private
+0.001,0.1 ,50 ,10 ,mnli,prefix,8,256,8 ,roberta-large,256,private
+0.05 ,0.1 ,60 ,2  ,mnli,prefix,8,128,16,roberta-large,256,private
+0.05 ,0.01,60 ,2  ,mnli,prefix,8,128,16,roberta-large,256,private
+0.05 ,0.1 ,100,2  ,mnli,prefix,8,128,16,roberta-large,256,private
+0.05 ,0.01,100,2  ,mnli,prefix,8,128,16,roberta-large,256,private
+0.005,0.05,100,10 ,mnli,prompt,3,256,4 ,roberta-large,256,private
+0.005,0.05,100,10 ,qqp ,prompt,3,256,4 ,roberta-large,256,private
+0.005,0.05,100,10 ,qnli,prompt,3,256,4 ,roberta-large,256,private
+0.005,0.05,100,10 ,sst2,prompt,3,256,4 ,roberta-large,256,private
+0.005,0.05,60 ,10 ,mnli,prompt,8,256,4 ,roberta-large,256,private
+0.005,0.05,60 ,10 ,qqp ,prompt,8,256,4 ,roberta-large,256,private
+0.005,0.05,60 ,10 ,sst2,prompt,8,256,4 ,roberta-large,256,private
+0.005,0.05,60 ,10 ,qnli,prompt,8,256,4 ,roberta-large,256,private
+0.005,0.05,60 ,10 ,mnli,prompt,3,256,4 ,roberta-large,256,private
+0.005,0.05,60 ,10 ,qqp ,prompt,3,256,4 ,roberta-large,256,private
+0.005,0.05,60 ,10 ,sst2,prompt,3,256,4 ,roberta-large,256,private
+0.005,0.05,60 ,10 ,qnli,prompt,3,256,4 ,roberta-large,256,private
+0.005,0.05,100,10 ,mnli,prompt,8,128,16,roberta-large,256,private
+0.005,0.05,100,10 ,qqp ,prompt,8,128,16,roberta-large,256,private
+0.005,0.05,100,10 ,sst2,prompt,8,128,16,roberta-large,256,private
+0.005,0.05,100,10 ,qnli,prompt,8,128,16,roberta-large,256,private
+0.005,0.05,100,10 ,mnli,prompt,3,128,16,roberta-large,256,private
+0.005,0.05,100,10 ,qqp ,prompt,3,128,16,roberta-large,256,private
+0.005,0.05,100,10 ,sst2,prompt,3,128,16,roberta-large,256,private
+0.005,0.05,100,10 ,qnli,prompt,3,128,16,roberta-large,256,private
+0.005,0.05,60 ,10 ,mnli,prompt,8,128,16,roberta-large,256,private
+0.005,0.05,60 ,10 ,qqp ,prompt,8,128,16,roberta-large,256,private
+0.005,0.05,60 ,10 ,sst2,prompt,8,128,16,roberta-large,256,private
+0.005,0.05,60 ,10 ,qnli,prompt,8,128,16,roberta-large,256,private
+0.005,0.05,60 ,10 ,mnli,prompt,3,128,16,roberta-large,256,private
+0.005,0.05,60 ,10 ,qqp ,prompt,3,128,16,roberta-large,256,private
+0.005,0.05,60 ,10 ,sst2,prompt,3,128,16,roberta-large,256,private
+0.005,0.05,60 ,10 ,qnli,prompt,3,128,16,roberta-large,256,private
+0.005,0.05,100,10 ,mnli,prompt,8,64 ,32,roberta-large,256,private
+0.005,0.05,100,10 ,qqp ,prompt,8,64 ,32,roberta-large,256,private
+0.005,0.05,100,10 ,sst2,prompt,8,64 ,32,roberta-large,256,private
+0.005,0.05,100,10 ,qnli,prompt,8,64 ,32,roberta-large,256,private
+0.005,0.05,100,10 ,mnli,prompt,3,64 ,32,roberta-large,256,private
+0.005,0.05,100,10 ,qqp ,prompt,3,64 ,32,roberta-large,256,private
+0.005,0.05,100,10 ,sst2,prompt,3,64 ,32,roberta-large,256,private
+0.005,0.05,100,10 ,qnli,prompt,3,64 ,32,roberta-large,256,private
+0.005,0.05,100,10 ,qnli,prompt,3,64 ,32,roberta-large,256,private
+0.005,0.05,60 ,10 ,mnli,prompt,8,128,16,roberta-large,256,private
+0.05 ,0.01,21 ,9  ,sst2,prompt,8,128,16,roberta-large,256,private
+0.05 ,4   ,22 ,1  ,sst2,prefix,8,128,16,roberta-large,256,private
+0.03 ,0.07,22 ,10 ,qnli,prefix,8,128,16,roberta-large,256,private
+0.005,0.05,60 ,10 ,mnli,prompt,3,128,16,roberta-large,256,private
+0.05 ,0.01,21 ,9  ,sst2,prompt,3,128,16,roberta-large,256,private
+0.05 ,4   ,22 ,1  ,sst2,prefix,3,128,16,roberta-large,256,private
+0.03 ,0.07,22 ,10 ,qnli,prefix,3,128,16,roberta-large,256,private
+0.005,0.05,60 ,10 ,qnli,prompt,8,64 ,32,roberta-large,256,private
+0.005,0.05,60 ,10 ,mnli,prompt,3,64 ,32,roberta-large,256,private
+0.005,0.05,60 ,10 ,qqp ,prompt,3,64 ,32,roberta-large,256,private
+0.005,0.05,60 ,10 ,sst2,prompt,3,64 ,32,roberta-large,256,private
+0.005,0.05,60 ,10 ,qnli,prompt,3,64 ,32,roberta-large,256,private
+0.005,0.05,100,10 ,mnli,prompt,8,32 ,64,roberta-large,256,private
+0.005,0.05,100,10 ,qqp ,prompt,8,32 ,64,roberta-large,256,private
+0.005,0.05,100,10 ,sst2,prompt,8,32 ,64,roberta-large,256,private
+0.005,0.05,100,10 ,qnli,prompt,8,32 ,64,roberta-large,256,private
+0.005,0.05,100,10 ,mnli,prompt,3,32 ,64,roberta-large,256,private
+0.005,4.0 ,100,50 ,qqp ,prompt,8,128,8 ,roberta-large,256,public
+0.005,4.0 ,100,20 ,qqp ,prefix,8,128,8 ,roberta-large,256,public
+0.001,4.0 ,100,20 ,mnli,prompt,8,128,1 ,roberta-large,256,public
+0.01 ,4.0 ,100,20 ,mnli,prefix,8,128,1 ,roberta-large,256,public
+0.01 ,4.0 ,100,20 ,qnli,prefix,8,128,8 ,roberta-large,256,public
+0.005,4.0 ,100,128,qnli,prompt,8,128,8 ,roberta-large,256,public
+0.005,4.0 ,100,100,sst2,prompt,8,128,8 ,roberta-large,256,public
+0.01 ,4.0 ,100,20 ,sst2,prefix,8,128,1 ,roberta-large,256,public
+0.005,0.05,100,10 ,qqp ,prompt,3,32 ,64,roberta-large,256,private
+0.005,0.05,100,10 ,sst2,prompt,3,32 ,64,roberta-large,256,private
+0.005,0.05,100,10 ,qnli,prompt,3,32 ,64,roberta-large,256,private
+0.005,4.0 ,100,20 ,qqp ,prefix,8,64 ,1 ,roberta-large,256,public
+0.005,4.0 ,100,50 ,mnli,prompt,8,64 ,1 ,roberta-large,256,public
+0.005,4.0 ,100,50 ,qqp ,prompt,8,32 ,1 ,roberta-large,256,public
+0.005,4.0 ,100,20 ,mnli,prefix,8,64 ,1 ,roberta-large,256,public
+0.005,0.05,60 ,10 ,mnli,prompt,8,32 ,64,roberta-large,256,private
+0.005,0.05,60 ,10 ,qqp ,prompt,8,32 ,64,roberta-large,256,private
+0.005,0.05,60 ,10 ,sst2,prompt,8,32 ,64,roberta-large,256,private
+0.005,0.05,60 ,10 ,qnli,prompt,8,32 ,64,roberta-large,256,private
+0.005,0.05,60 ,10 ,mnli,prompt,3,32 ,64,roberta-large,256,private
+0.005,0.05,60 ,10 ,qqp ,prompt,3,32 ,64,roberta-large,256,private
+0.005,0.05,60 ,10 ,sst2,prompt,3,32 ,64,roberta-large,256,private
+0.005,0.05,60 ,10 ,qnli,prompt,3,32 ,64,roberta-large,256,private
+0.05 ,0.1 ,90 ,2  ,mnli,prefix,8,128,16,roberta-large,256,private
+0.05 ,0.01,90 ,2  ,mnli,prefix,8,128,16,roberta-large,256,private
+0.05 ,0.1 ,80 ,2  ,mnli,prefix,8,128,16,roberta-large,256,private
+0.05 ,0.01,80 ,2  ,mnli,prefix,8,128,16,roberta-large,256,private
+0.05 ,0.1 ,70 ,2  ,mnli,prefix,8,128,16,roberta-large,256,private
+0.05 ,0.01,70 ,2  ,mnli,prefix,8,128,16,roberta-large,256,private
+0.05 ,0.1 ,110,2  ,mnli,prefix,8,128,16,roberta-large,256,private
+0.05 ,0.01,110,2  ,mnli,prefix,8,128,16,roberta-large,256,private
+0.05 ,0.1 ,120,2  ,mnli,prefix,8,128,16,roberta-large,256,private
+0.05 ,0.01,120,2  ,mnli,prefix,8,128,16,roberta-large,256,private
+0.05 ,0.1 ,60 ,2  ,mnli,prefix,8,64 ,32,roberta-large,256,private
+0.05 ,0.01,60 ,2  ,mnli,prefix,8,64 ,32,roberta-large,256,private
+0.05 ,0.1 ,100,2  ,mnli,prefix,8,64 ,32,roberta-large,256,private
+0.05 ,0.01,100,2  ,mnli,prefix,8,64 ,32,roberta-large,256,private
+0.05 ,0.1 ,90 ,2  ,mnli,prefix,8,64 ,32,roberta-large,256,private
+0.05 ,0.01,90 ,2  ,mnli,prefix,8,64 ,32,roberta-large,256,private
+0.05 ,0.1 ,80 ,2  ,mnli,prefix,8,64 ,32,roberta-large,256,private
+0.05 ,0.01,80 ,2  ,mnli,prefix,8,64 ,32,roberta-large,256,private
+0.05 ,0.1 ,70 ,2  ,mnli,prefix,8,64 ,32,roberta-large,256,private
+0.05 ,0.01,70 ,2  ,mnli,prefix,8,64 ,32,roberta-large,256,private
+0.05 ,0.1 ,110,2  ,mnli,prefix,8,64 ,32,roberta-large,256,private
+0.05 ,0.01,110,2  ,mnli,prefix,8,64 ,32,roberta-large,256,private
+0.05 ,0.1 ,120,2  ,mnli,prefix,8,64 ,32,roberta-large,256,private
+0.05 ,0.01,120,2  ,mnli,prefix,8,64 ,32,roberta-large,256,private
+0.05 ,0.1 ,60 ,2  ,mnli,prefix,8,32 ,64,roberta-large,256,private
+0.05 ,0.01,60 ,2  ,mnli,prefix,8,32 ,64,roberta-large,256,private
+0.05 ,0.1 ,100,2  ,mnli,prefix,8,32 ,64,roberta-large,256,private
+0.05 ,0.01,100,2  ,mnli,prefix,8,32 ,64,roberta-large,256,private
+0.05 ,0.1 ,90 ,2  ,mnli,prefix,8,32 ,64,roberta-large,256,private
+0.05 ,0.01,90 ,2  ,mnli,prefix,8,32 ,64,roberta-large,256,private
+0.05 ,0.1 ,80 ,2  ,mnli,prefix,8,32 ,64,roberta-large,256,private
+0.05 ,0.01,80 ,2  ,mnli,prefix,8,32 ,64,roberta-large,256,private
+0.05 ,0.1 ,70 ,2  ,mnli,prefix,8,32 ,64,roberta-large,256,private
+0.05 ,0.01,70 ,2  ,mnli,prefix,8,32 ,64,roberta-large,256,private
+0.05 ,0.1 ,110,2  ,mnli,prefix,8,32 ,64,roberta-large,256,private
+0.05 ,0.01,110,2  ,mnli,prefix,8,32 ,64,roberta-large,256,private
+0.05 ,0.1 ,120,2  ,mnli,prefix,8,32 ,64,roberta-large,256,private
+0.05 ,0.01,120,2  ,mnli,prefix,8,32 ,64,roberta-large,256,private
+0.001,1.0 ,50 ,10 ,mnli,prefix,8,256,8 ,roberta-large,256,private
+0.001,10.0,50 ,10 ,mnli,prefix,8,256,8 ,roberta-large,256,private
+0.001,3.0 ,50 ,10 ,mnli,prefix,8,256,8 ,roberta-large,256,private
+0.001,0.1 ,50 ,100,mnli,prefix,8,256,8 ,roberta-large,256,private
+0.001,1.0 ,50 ,100,mnli,prefix,8,256,8 ,roberta-large,256,private
+0.001,10.0,50 ,100,mnli,prefix,8,256,8 ,roberta-large,256,private
+0.001,3.0 ,50 ,100,mnli,prefix,8,256,8 ,roberta-large,256,private
+0.001,0.1 ,50 ,20 ,mnli,prefix,8,256,8 ,roberta-large,256,private
+0.001,1.0 ,50 ,20 ,mnli,prefix,8,256,8 ,roberta-large,256,private
+0.001,10.0,50 ,20 ,mnli,prefix,8,256,8 ,roberta-large,256,private
+0.001,0.1 ,50 ,20 ,mnli,prefix,8,256,8 ,roberta-large,256,private
+0.001,1.0 ,50 ,20 ,mnli,prefix,8,256,8 ,roberta-large,256,private
+0.001,10.0,50 ,20 ,mnli,prefix,8,256,8 ,roberta-large,256,private
+0.001,3.0 ,50 ,20 ,mnli,prefix,8,256,8 ,roberta-large,256,private
+0.001,3.0 ,50 ,20 ,mnli,prefix,8,256,8 ,roberta-large,256,private
+0.001,0.1 ,50 ,50 ,mnli,prompt,8,256,8 ,roberta-large,256,private
+0.001,1.0 ,50 ,50 ,mnli,prompt,8,256,8 ,roberta-large,256,private
+0.001,10.0,50 ,50 ,mnli,prompt,8,256,8 ,roberta-large,256,private
+0.001,3.0 ,50 ,50 ,mnli,prompt,8,256,8 ,roberta-large,256,private
+0.001,0.1 ,50 ,10 ,mnli,prompt,8,256,8 ,roberta-large,256,private
+0.001,1.0 ,50 ,10 ,mnli,prompt,8,256,8 ,roberta-large,256,private
+0.001,10.0,50 ,10 ,mnli,prompt,8,256,8 ,roberta-large,256,private
+0.001,3.0 ,50 ,10 ,mnli,prompt,8,256,8 ,roberta-large,256,private
+0.001,0.1 ,50 ,100,mnli,prompt,8,256,8 ,roberta-large,256,private
+0.001,1.0 ,50 ,100,mnli,prompt,8,256,8 ,roberta-large,256,private
+0.001,10.0,50 ,100,mnli,prompt,8,256,8 ,roberta-large,256,private
+0.001,3.0 ,50 ,100,mnli,prompt,8,256,8 ,roberta-large,256,private
+0.001,0.1 ,50 ,20 ,mnli,prompt,8,256,8 ,roberta-large,256,private
+0.001,1.0 ,50 ,20 ,mnli,prompt,8,256,8 ,roberta-large,256,private
+0.001,10.0,50 ,20 ,mnli,prompt,8,256,8 ,roberta-large,256,private
+0.001,3.0 ,50 ,20 ,mnli,prompt,8,256,8 ,roberta-large,256,private
+0.001,0.1 ,50 ,50 ,mnli,prompt,8,128,16,roberta-large,256,private
+0.001,1.0 ,50 ,50 ,mnli,prompt,8,128,16,roberta-large,256,private
+0.001,10.0,50 ,50 ,mnli,prompt,8,128,16,roberta-large,256,private
+0.001,3.0 ,50 ,50 ,mnli,prompt,8,128,16,roberta-large,256,private
+0.001,0.1 ,50 ,10 ,mnli,prompt,8,128,16,roberta-large,256,private
+0.001,1.0 ,50 ,10 ,mnli,prompt,8,128,16,roberta-large,256,private
+0.001,10.0,50 ,10 ,mnli,prompt,8,128,16,roberta-large,256,private
+0.001,3.0 ,50 ,10 ,mnli,prompt,8,128,16,roberta-large,256,private
+0.001,0.1 ,50 ,100,mnli,prompt,8,128,16,roberta-large,256,private
+0.001,1.0 ,50 ,100,mnli,prompt,8,128,16,roberta-large,256,private
+0.001,10.0,50 ,100,mnli,prompt,8,128,16,roberta-large,256,private
+0.001,3.0 ,50 ,100,mnli,prompt,8,128,16,roberta-large,256,private
+0.001,0.1 ,50 ,20 ,mnli,prompt,8,128,16,roberta-large,256,private
+0.001,1.0 ,50 ,20 ,mnli,prompt,8,128,16,roberta-large,256,private
+0.001,10.0,50 ,20 ,mnli,prompt,8,128,16,roberta-large,256,private
+0.001,3.0 ,50 ,20 ,mnli,prompt,8,128,16,roberta-large,256,private
+0.001,0.1 ,50 ,50 ,mnli,prompt,8,64 ,32,roberta-large,256,private
+0.001,1.0 ,50 ,50 ,mnli,prompt,8,64 ,32,roberta-large,256,private
+0.001,10.0,50 ,50 ,mnli,prompt,8,64 ,32,roberta-large,256,private
+0.001,3.0 ,50 ,50 ,mnli,prompt,8,64 ,32,roberta-large,256,private
+0.001,0.1 ,50 ,10 ,mnli,prompt,8,64 ,32,roberta-large,256,private
+0.001,1.0 ,50 ,10 ,mnli,prompt,8,64 ,32,roberta-large,256,private
+0.001,10.0,50 ,10 ,mnli,prompt,8,64 ,32,roberta-large,256,private
+0.001,3.0 ,50 ,10 ,mnli,prompt,8,64 ,32,roberta-large,256,private
+0.001,0.1 ,50 ,100,mnli,prompt,8,64 ,32,roberta-large,256,private
+0.001,1.0 ,50 ,100,mnli,prompt,8,64 ,32,roberta-large,256,private
+0.001,10.0,50 ,100,mnli,prompt,8,64 ,32,roberta-large,256,private
+0.001,3.0 ,50 ,100,mnli,prompt,8,64 ,32,roberta-large,256,private
+0.001,0.1 ,50 ,20 ,mnli,prompt,8,64 ,32,roberta-large,256,private
+0.001,1.0 ,50 ,20 ,mnli,prompt,8,64 ,32,roberta-large,256,private
+0.001,10.0,50 ,20 ,mnli,prompt,8,64 ,32,roberta-large,256,private
+0.001,3.0 ,50 ,20 ,mnli,prompt,8,64 ,32,roberta-large,256,private
+0.001,0.1 ,50 ,50 ,mnli,prefix,8,128,16,roberta-large,256,private
+0.001,1.0 ,50 ,50 ,mnli,prefix,8,128,16,roberta-large,256,private
+0.001,10.0,50 ,50 ,mnli,prefix,8,128,16,roberta-large,256,private
+0.001,3.0 ,50 ,50 ,mnli,prefix,8,128,16,roberta-large,256,private
+0.001,0.1 ,50 ,10 ,mnli,prefix,8,128,16,roberta-large,256,private
+0.001,1.0 ,50 ,10 ,mnli,prefix,8,128,16,roberta-large,256,private
+0.001,10.0,50 ,10 ,mnli,prefix,8,128,16,roberta-large,256,private
+0.001,3.0 ,50 ,10 ,mnli,prefix,8,128,16,roberta-large,256,private
+0.001,0.1 ,50 ,100,mnli,prefix,8,128,16,roberta-large,256,private
+0.001,1.0 ,50 ,100,mnli,prefix,8,128,16,roberta-large,256,private
+0.001,10.0,50 ,100,mnli,prefix,8,128,16,roberta-large,256,private
+0.001,3.0 ,50 ,100,mnli,prefix,8,128,16,roberta-large,256,private
+0.001,0.1 ,50 ,20 ,mnli,prefix,8,128,16,roberta-large,256,private
+0.001,1.0 ,50 ,20 ,mnli,prefix,8,128,16,roberta-large,256,private
+0.001,10.0,50 ,20 ,mnli,prefix,8,128,16,roberta-large,256,private
+0.001,3.0 ,50 ,20 ,mnli,prefix,8,128,16,roberta-large,256,private
+0.001,0.1 ,50 ,50 ,mnli,prefix,8,64 ,32,roberta-large,256,private
+0.001,1.0 ,50 ,50 ,mnli,prefix,8,64 ,32,roberta-large,256,private
+0.001,10.0,50 ,50 ,mnli,prefix,8,64 ,32,roberta-large,256,private
+0.001,3.0 ,50 ,50 ,mnli,prefix,8,64 ,32,roberta-large,256,private
+0.001,0.1 ,50 ,10 ,mnli,prefix,8,64 ,32,roberta-large,256,private
+0.001,1.0 ,50 ,10 ,mnli,prefix,8,64 ,32,roberta-large,256,private
+0.001,10.0,50 ,10 ,mnli,prefix,8,64 ,32,roberta-large,256,private
+0.001,3.0 ,50 ,10 ,mnli,prefix,8,64 ,32,roberta-large,256,private
+0.001,0.1 ,50 ,100,mnli,prefix,8,64 ,32,roberta-large,256,private
+0.001,1.0 ,50 ,100,mnli,prefix,8,64 ,32,roberta-large,256,private
+0.001,10.0,50 ,100,mnli,prefix,8,64 ,32,roberta-large,256,private
+0.001,3.0 ,50 ,100,mnli,prefix,8,64 ,32,roberta-large,256,private
+0.001,0.1 ,50 ,20 ,mnli,prefix,8,64 ,32,roberta-large,256,private
+0.001,1.0 ,50 ,20 ,mnli,prefix,8,64 ,32,roberta-large,256,private
+0.001,10.0,50 ,20 ,mnli,prefix,8,64 ,32,roberta-large,256,private
+0.001,3.0 ,50 ,20 ,mnli,prefix,8,64 ,32,roberta-large,256,private
+0.05 ,0.1 ,15 ,2  ,mnli,prefix,8,128,8 ,roberta-large,256,private
+0.05 ,1.0 ,15 ,2  ,mnli,prefix,8,128,8 ,roberta-large,256,private
+0.05 ,3.0 ,15 ,2  ,mnli,prefix,8,128,8 ,roberta-large,256,private
+0.05 ,5.0 ,15 ,2  ,mnli,prefix,8,128,8 ,roberta-large,256,private
+0.05 ,0.03,15 ,2  ,mnli,prefix,8,128,8 ,roberta-large,256,private
+0.05 ,0.04,15 ,2  ,mnli,prefix,8,128,8 ,roberta-large,256,private
+0.05 ,0.06,15 ,2  ,mnli,prefix,8,128,8 ,roberta-large,256,private
+0.05 ,0.07,15 ,2  ,mnli,prefix,8,128,8 ,roberta-large,256,private
+0.05 ,0.08,15 ,2  ,mnli,prefix,8,128,8 ,roberta-large,256,private
+0.05 ,0.09,15 ,2  ,mnli,prefix,8,128,8 ,roberta-large,256,private
+0.05 ,2.0 ,15 ,2  ,mnli,prefix,8,128,8 ,roberta-large,256,private
+0.05 ,0.5 ,15 ,2  ,mnli,prefix,8,128,8 ,roberta-large,256,private
